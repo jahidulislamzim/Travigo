@@ -21,17 +21,17 @@ The main goals of the project include:
 
 ## Project Preview
 <figure align="center">
-      <img src="" alt="Travigo hero section with bold headline and call-to-action" />
+      <img src="https://raw.githubusercontent.com/jahidulislamzim/Travigo/refs/heads/main/src/Assets/Readme/Hero.png" alt="Travigo hero section with bold headline and call-to-action" />
       <figcaption>Hero Section — modern introduction with strong visual hierarchy and CTA.</figcaption>
 </figure>
 
 <figure align="center">
-      <img src="" alt="Travigo outdoors section showcasing nature and adventure destinations" />
+      <img src="https://raw.githubusercontent.com/jahidulislamzim/Travigo/refs/heads/main/src/Assets/Readme/Outdoor.png" alt="Travigo outdoors section showcasing nature and adventure destinations" />
       <figcaption>Outdoors Section — adventure-focused layout highlighting nature experiences.</figcaption>
 </figure>
 
 <figure align="center">
-      <img src="" alt="Travigo pricing section comparing standard and premium plans" />
+      <img src="https://raw.githubusercontent.com/jahidulislamzim/Travigo/refs/heads/main/src/Assets/Readme/Pricing.png" alt="Travigo pricing section comparing standard and premium plans" />
       <figcaption>Pricing Section — clear comparison between Standard and Premium plans.</figcaption>
 </figure>
   
